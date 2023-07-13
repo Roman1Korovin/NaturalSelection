@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NaturalSelection.Bots.Bot">
+    <Position X="0.5" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABICABKQgIAAAAEAEAAAAAAAAAkAAQAAEASkwAAAYEA=</HashCode>
+      <FileName>Bots\Bot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Bots.Cannibal">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bots\Cannibal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Bots.Herbivore">
+    <Position X="3.75" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bots\Herbivore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Bots.Predator">
+    <Position X="3.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAgAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bots\Predator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Bots.HerbivoreWeak">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bots\HerbivoreWeak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Objects.Item">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAwAAAYAA=</HashCode>
+      <FileName>Objects\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Objects.Remains">
+    <Position X="10.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Objects\Remains.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Objects.Berries">
+    <Position X="7.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAgAAEAAAABAA=</HashCode>
+      <FileName>Objects\Berries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Controllers.LogicController">
+    <Position X="8" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QACAAAAAAAAABAAAAwAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\LogicController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSelection.Controllers.MapController">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEEAAAAAAAAAAAAAAQAAAAAAAAAAAAAACEAABAAA=</HashCode>
+      <FileName>Controllers\MapController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
